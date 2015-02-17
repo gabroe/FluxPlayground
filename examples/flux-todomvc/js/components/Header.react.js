@@ -8,8 +8,11 @@
  */
 
 var React = require('react');
+
 var TodoActions = require('../actions/TodoActions');
 var TodoTextInput = require('./TodoTextInput.react');
+var Dispatcher = require('../dispatcher/AppDispatcher');
+var WidgetWithPopup = require('./WidgetWithPopup.react');
 
 var Header = React.createClass({
 
@@ -19,7 +22,7 @@ var Header = React.createClass({
   render: function() {
     return (
       <header id="header">
-        <h1>todos</h1>
+        <h1 onClick={this._showPopup}>Click</h1>
         <TodoTextInput
           id="new-todo"
           placeholder="What needs to be done?"
@@ -40,7 +43,20 @@ var Header = React.createClass({
       TodoActions.create(text);
     }
 
+  },
+
+  _showPopup : function(){
+      Dispatcher.dispatch(
+          {
+              actionType : 'showPopup',
+              props : {
+                  anchor : this.getDOMNode(),
+                  offset : {left : -30, top : 100}
+              }
+          }
+      );
   }
+
 
 });
 

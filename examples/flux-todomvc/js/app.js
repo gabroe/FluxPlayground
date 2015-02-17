@@ -8,8 +8,13 @@
  */
 
 var React = require('react');
-
 var TodoApp = require('./components/TodoApp.react');
+var WidgetWithPopup = require('./components/WidgetWithPopup.react');
+
+React.render(
+    <WidgetWithPopup />,
+    document.getElementById('popup')
+);
 
 React.render(
   <TodoApp />,

@@ -18,7 +18,7 @@ var MainSection = require('./MainSection.react');
 var React = require('react');
 var TodoStore = require('../stores/TodoStore');
 
-/**
+    /**
  * Retrieve the current TODO data from the TodoStore
  */
 function getTodoState() {
