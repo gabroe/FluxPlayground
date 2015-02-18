@@ -18,6 +18,9 @@ var MainSection = require('./MainSection.react');
 var React = require('react');
 var TodoStore = require('../stores/TodoStore');
 
+//We use the WidgetWithPopup on this app so we need to include it
+require('./WidgetWithPopup.react');
+
     /**
  * Retrieve the current TODO data from the TodoStore
  */

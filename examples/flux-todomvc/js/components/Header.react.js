@@ -12,7 +12,6 @@ var React = require('react');
 var TodoActions = require('../actions/TodoActions');
 var TodoTextInput = require('./TodoTextInput.react');
 var Dispatcher = require('../dispatcher/AppDispatcher');
-var WidgetWithPopup = require('./WidgetWithPopup.react');
 
 var Header = React.createClass({
 

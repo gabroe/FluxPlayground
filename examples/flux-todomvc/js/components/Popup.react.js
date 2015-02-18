@@ -37,8 +37,8 @@ var Popup = React.createClass({
                     right : 0,
                     zIndex : 1
                 }}
-                onClick = {this.close}
-            >
+                onClick = {this.close}>
+
                 <div className = {'contents'} style={
                         {
                             display : this.props.show ? 'block' : 'none',

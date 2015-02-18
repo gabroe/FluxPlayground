@@ -1,5 +1,5 @@
 var React = require('react');
-var MyStore = require('../stores/MyStore');
+var MyStore = require('../stores/MyStore.react');
 var Dispatcher = require('../dispatcher/AppDispatcher');
 var Popup = require('./Popup.react');
 

@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15053bb3-7379-4956-a01d-bcdae0afe9bb" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/stores/MyStore.js" afterPath="$PROJECT_DIR$/js/stores/MyStore.react.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../dist/Flux.js" afterPath="$PROJECT_DIR$/../../dist/Flux.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/Header.react.js" afterPath="$PROJECT_DIR$/js/components/Header.react.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/Popup.react.js" afterPath="$PROJECT_DIR$/js/components/Popup.react.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/TodoApp.react.js" afterPath="$PROJECT_DIR$/js/components/TodoApp.react.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/WidgetWithPopup.react.js" afterPath="$PROJECT_DIR$/js/components/WidgetWithPopup.react.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/app.js" afterPath="$PROJECT_DIR$/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+    </list>
+    <ignored path="flux-todomvc.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="flux-todomvc" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Popup.react.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/components/Popup.react.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1080">
+              <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TodoApp.react.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/components/TodoApp.react.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.37815127" vertical-offset="0" max-vertical-offset="1080">
+              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyStore.react.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/stores/MyStore.react.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1155">
+              <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WidgetWithPopup.react.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/components/WidgetWithPopup.react.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1125">
+              <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bundle.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/bundle.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="10155" max-vertical-offset="439755">
+              <caret line="704" column="0" selection-start-line="704" selection-start-column="0" selection-end-line="704" selection-end-column="0" />
+              <folding>
+                <marker date="1424277262000" expanded="true" signature="3396:4419" placeholder="{&quot;displayName&quot;: &quot;Header&quot;...}" />
+                <marker date="1424277262000" expanded="true" signature="3414:3459" placeholder="/** @return {object} ...*/" />
+                <marker date="1424277262000" expanded="true" signature="3481:3727" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="3595:3618" placeholder="{&quot;id&quot;: &quot;new-todo&quot;...}" />
+                <marker date="1424277262000" expanded="true" signature="3798:3955" placeholder="/** Event handler called within TodoTextInput. ...*/" />
+                <marker date="1424277262000" expanded="true" signature="4026:4079" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="4066:4068" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="4211:4360" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="4265:4362" placeholder="{&quot;actionType&quot;: 'showPopup'...}" />
+                <marker date="1424277262000" expanded="true" signature="4317:4359" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="5088:6589" placeholder="[...]" />
+                <marker date="1424277262000" expanded="true" signature="5121:6310" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="4502:4893" placeholder="/** Copyright (c) 2014, Facebook, Inc. ...*/" />
+                <marker date="1424277262000" expanded="true" signature="5192:6295" placeholder="{&quot;displayName&quot;: &quot;MainSection&quot;...}" />
+                <marker date="1424277262000" expanded="true" signature="5223:5325" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="5433:6042" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="5554:5624" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="5925:6034" placeholder="{&quot;id&quot;: &quot;toggle-all&quot;...}" />
+                <marker date="1424277262000" expanded="true" signature="6095:6150" placeholder="/** Event handler to mark all TODOs as complete ...*/" />
+                <marker date="1424277262000" expanded="true" signature="6204:6269" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="6665:8721" placeholder="[...]" />
+                <marker date="1424277262000" expanded="true" signature="6698:8546" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="6370:8510" placeholder="{&quot;displayName&quot;: &quot;Popup&quot;...}" />
+                <marker date="1424277262000" expanded="true" signature="6890:7160" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="6911:7160" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="6941:7088" placeholder="{&quot;left&quot;: 0...}" />
+                <marker date="1424277262000" expanded="true" signature="7201:7282" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="7325:7394" placeholder="/** @return {object} ...*/" />
+                <marker date="1424277262000" expanded="true" signature="7411:8373" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="7604:7862" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="7636:7811" placeholder="{&quot;position&quot;: 'absolute'...}" />
+                <marker date="1424277262000" expanded="true" signature="7957:8217" placeholder="{&quot;className&quot;: 'contents'...}" />
+                <marker date="1424277262000" expanded="true" signature="7939:8102" placeholder="{&quot;position&quot;: 'absolute'...}" />
+                <marker date="1424277262000" expanded="true" signature="8397:8509" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="8454:8476" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="13130:18300" placeholder="[...]" />
+                <marker date="1424277262000" expanded="true" signature="13163:17835" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="12877:15801" placeholder="/** Copyright (c) 2014, Facebook, Inc. ...*/" />
+                <marker date="1424277262000" expanded="true" signature="15804:15936" placeholder="/** This component operates as a &quot;Controller-View&quot;.  It listens for changes in ...*/" />
+                <marker date="1424277262000" expanded="true" signature="16121:16197" placeholder="/** Retrieve the current TODO data from the TodoStore ...*/" />
+                <marker date="1424277262000" expanded="true" signature="16222:16233" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="16208:16234" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="16767:17688" placeholder="{&quot;displayName&quot;: &quot;TodoApp&quot;...}" />
+                <marker date="1424277262000" expanded="true" signature="16827:16876" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="17199:17218" placeholder="/** @return {object} ...*/" />
+                <marker date="1424277262000" expanded="true" signature="17272:17501" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="17440:17457" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="17507:17538" placeholder="/** Event handler for 'change' events coming from the TodoStore ...*/" />
+                <marker date="1424277262000" expanded="true" signature="17591:17620" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="18379:18744" placeholder="[...]" />
+                <marker date="1424277262000" expanded="true" signature="17949:18029" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="18056:18149" placeholder="/** Event handler called within TodoTextInput. ...*/" />
+                <marker date="1424277262000" expanded="true" signature="18171:18187" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="18276:18289" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="18408:18479" placeholder="/** Copyright (c) 2014, Facebook, Inc. ...*/" />
+                <marker date="1424277262000" expanded="true" signature="19099:20331" placeholder="{&quot;displayName&quot;: &quot;WidgetWithPopup&quot;...}" />
+                <marker date="1424277262000" expanded="true" signature="19094:19141" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="19397:19408" placeholder="/** @return {object} ...*/" />
+                <marker date="1424277262000" expanded="true" signature="19432:20059" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="19505:19686" placeholder="{&quot;class&quot;: &quot;widgetWithPopup&quot;...}" />
+                <marker date="1424277262000" expanded="true" signature="19760:19974" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="19768:19941" placeholder="{&quot;border&quot;: '1px solid red'...}" />
+                <marker date="1424277262000" expanded="true" signature="20083:20094" placeholder="/** Event handler for 'change' events coming from the TodoStore ...*/" />
+                <marker date="1424277262000" expanded="true" signature="20785:21535" placeholder="[...]" />
+                <marker date="1424277262000" expanded="true" signature="20818:21442" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="20371:21166" placeholder="/*...*/" />
+                <marker date="1424277262000" expanded="true" signature="21215:21389" placeholder="{&quot;TODO_CREATE&quot;: null...}" />
+                <marker date="1424277262000" expanded="true" signature="21613:22180" placeholder="[...]" />
+                <marker date="1424277262000" expanded="true" signature="21646:22097" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="21445:21972" placeholder="/*...*/" />
+                <marker date="1424277262000" expanded="true" signature="22283:24847" placeholder="[...]" />
+                <marker date="1424277262000" expanded="true" signature="22316:24213" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="22662:23017" placeholder="{&quot;widgetCreated&quot;: false...}" />
+                <marker date="1424277262000" expanded="true" signature="22699:22717" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="22725:22770" placeholder="/** @param {function} callback ...*/" />
+                <marker date="1424277262000" expanded="true" signature="22849:22860" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="22868:22913" placeholder="/** @param {function} callback ...*/" />
+                <marker date="1424277262000" expanded="true" signature="23142:24176" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="23180:23513" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="278279:280435" placeholder="/** Dispatcher is used to broadcast payloads to registered callbacks. This is ...*/" />
+                <marker date="1424277262000" expanded="true" signature="280516:280783" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="926606:934897" placeholder="[...]" />
+                <marker date="1424277262000" expanded="true" signature="926639:934893" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="932201:933154" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="932793:932858" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="932949:932980" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="932986:933026" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="933230:934101" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="933331:933514" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="933563:933815" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="933620:933705" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="933897:933903" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="933909:934003" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="934168:934361" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="934430:934614" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="934655:934659" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="934719:934723" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="934781:934785" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="934862:934866" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="935022:936285" placeholder="[...]" />
+                <marker date="1424277262000" expanded="true" signature="935055:936281" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="935191:935498" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="935188:935219" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="935294:935468" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="935400:935431" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="935553:935635" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="935576:935604" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="936023:936027" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="936136:936181" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="936332:937129" placeholder="[...]" />
+                <marker date="1424277262000" expanded="true" signature="936365:936848" placeholder="{...}" />
+                <marker date="1424277262000" expanded="true" signature="936281:936592" placeholder="/** Copyright (c) 2014, Facebook, Inc. ...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="360">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainSection.react.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/components/MainSection.react.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="1020">
+              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Header.react.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/components/Header.react.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1020">
+              <caret line="13" column="56" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/js/dispatcher/AppDispatcher.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/js/components/Popup.react.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/stores/MyStore.js" />
+        <option value="$PROJECT_DIR$/js/components/WidgetWithPopup.react.js" />
+        <option value="$PROJECT_DIR$/js/stores/MyStore.react.js" />
+        <option value="$PROJECT_DIR$/js/app.js" />
+        <option value="$PROJECT_DIR$/js/components/Header.react.js" />
+        <option value="$PROJECT_DIR$/js/components/TodoApp.react.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flux-todomvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flux-todomvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flux-todomvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flux-todomvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flux-todomvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="todomvc-common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flux-todomvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flux-todomvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flux-todomvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flux-todomvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stores" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flux-todomvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flux-todomvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dispatcher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flux-todomvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flux-todomvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="constants" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flux-todomvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flux-todomvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flux-todomvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flux-todomvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="actions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="FullScreen" value="true" />
+    <property name="JavaScriptLanguageLevel" value="JSX" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../WebDossierViewer" />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/flux-todomvc/index.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15053bb3-7379-4956-a01d-bcdae0afe9bb" name="Default" comment="" />
+      <created>1423846028417</created>
+      <option name="number" value="Default" />
+      <updated>1423846028417</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32959184" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32857144" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24954791" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/flux/lib/Dispatcher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2736" max-vertical-offset="3690">
+          <caret line="111" column="11" selection-start-line="111" selection-start-column="11" selection-end-line="111" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/dispatcher/AppDispatcher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="330">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/stores/TodoStore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="840" max-vertical-offset="2595">
+          <caret line="78" column="17" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/object-assign/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/object-assign/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/components/TodoApp.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="855" max-vertical-offset="1035">
+          <caret line="64" column="17" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/components/TodoTextInput.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="1290">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/constants/TodoConstants.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="420">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/components/MainSection.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="1020">
+          <caret line="56" column="10" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/components/Header.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="795">
+          <caret line="12" column="0" selection-start-line="24" selection-start-column="46" selection-end-line="25" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/dispatcher/AppDispatcher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="330">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/stores/TodoStore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1643" max-vertical-offset="2595">
+          <caret line="121" column="6" selection-start-line="121" selection-start-column="6" selection-end-line="121" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/components/TodoApp.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="675" max-vertical-offset="1035">
+          <caret line="52" column="7" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/actions/TodoActions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="1275">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/components/MainSection.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="1020">
+          <caret line="56" column="10" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/components/TodoItem.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1575">
+          <caret line="98" column="26" selection-start-line="98" selection-start-column="26" selection-end-line="98" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/components/TodoTextInput.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1290">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/constants/TodoConstants.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/object-assign/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58441556" vertical-offset="0" max-vertical-offset="924">
+          <caret line="36" column="50" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/object-assign/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="954">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/stores/TodoStore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2595">
+          <caret line="78" column="7" selection-start-line="78" selection-start-column="7" selection-end-line="78" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todomvc-common/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/actions/TodoActions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1275">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/dispatcher/AppDispatcher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/flux/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/flux/lib/Dispatcher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2352" max-vertical-offset="3690">
+          <caret line="111" column="11" selection-start-line="111" selection-start-column="11" selection-end-line="111" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47107437" vertical-offset="0" max-vertical-offset="645">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="10155" max-vertical-offset="439755">
+          <caret line="704" column="0" selection-start-line="704" selection-start-column="0" selection-end-line="704" selection-end-column="0" />
+          <folding>
+            <marker date="1424277262000" expanded="true" signature="3396:4419" placeholder="{&quot;displayName&quot;: &quot;Header&quot;...}" />
+            <marker date="1424277262000" expanded="true" signature="3414:3459" placeholder="/** @return {object} ...*/" />
+            <marker date="1424277262000" expanded="true" signature="3481:3727" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="3595:3618" placeholder="{&quot;id&quot;: &quot;new-todo&quot;...}" />
+            <marker date="1424277262000" expanded="true" signature="3798:3955" placeholder="/** Event handler called within TodoTextInput. ...*/" />
+            <marker date="1424277262000" expanded="true" signature="4026:4079" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="4066:4068" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="4211:4360" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="4265:4362" placeholder="{&quot;actionType&quot;: 'showPopup'...}" />
+            <marker date="1424277262000" expanded="true" signature="4317:4359" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="5088:6589" placeholder="[...]" />
+            <marker date="1424277262000" expanded="true" signature="5121:6310" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="4502:4893" placeholder="/** Copyright (c) 2014, Facebook, Inc. ...*/" />
+            <marker date="1424277262000" expanded="true" signature="5192:6295" placeholder="{&quot;displayName&quot;: &quot;MainSection&quot;...}" />
+            <marker date="1424277262000" expanded="true" signature="5223:5325" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="5433:6042" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="5554:5624" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="5925:6034" placeholder="{&quot;id&quot;: &quot;toggle-all&quot;...}" />
+            <marker date="1424277262000" expanded="true" signature="6095:6150" placeholder="/** Event handler to mark all TODOs as complete ...*/" />
+            <marker date="1424277262000" expanded="true" signature="6204:6269" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="6665:8721" placeholder="[...]" />
+            <marker date="1424277262000" expanded="true" signature="6698:8546" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="6370:8510" placeholder="{&quot;displayName&quot;: &quot;Popup&quot;...}" />
+            <marker date="1424277262000" expanded="true" signature="6890:7160" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="6911:7160" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="6941:7088" placeholder="{&quot;left&quot;: 0...}" />
+            <marker date="1424277262000" expanded="true" signature="7201:7282" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="7325:7394" placeholder="/** @return {object} ...*/" />
+            <marker date="1424277262000" expanded="true" signature="7411:8373" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="7604:7862" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="7636:7811" placeholder="{&quot;position&quot;: 'absolute'...}" />
+            <marker date="1424277262000" expanded="true" signature="7957:8217" placeholder="{&quot;className&quot;: 'contents'...}" />
+            <marker date="1424277262000" expanded="true" signature="7939:8102" placeholder="{&quot;position&quot;: 'absolute'...}" />
+            <marker date="1424277262000" expanded="true" signature="8397:8509" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="8454:8476" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="13130:18300" placeholder="[...]" />
+            <marker date="1424277262000" expanded="true" signature="13163:17835" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="12877:15801" placeholder="/** Copyright (c) 2014, Facebook, Inc. ...*/" />
+            <marker date="1424277262000" expanded="true" signature="15804:15936" placeholder="/** This component operates as a &quot;Controller-View&quot;.  It listens for changes in ...*/" />
+            <marker date="1424277262000" expanded="true" signature="16121:16197" placeholder="/** Retrieve the current TODO data from the TodoStore ...*/" />
+            <marker date="1424277262000" expanded="true" signature="16222:16233" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="16208:16234" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="16767:17688" placeholder="{&quot;displayName&quot;: &quot;TodoApp&quot;...}" />
+            <marker date="1424277262000" expanded="true" signature="16827:16876" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="17199:17218" placeholder="/** @return {object} ...*/" />
+            <marker date="1424277262000" expanded="true" signature="17272:17501" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="17440:17457" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="17507:17538" placeholder="/** Event handler for 'change' events coming from the TodoStore ...*/" />
+            <marker date="1424277262000" expanded="true" signature="17591:17620" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="18379:18744" placeholder="[...]" />
+            <marker date="1424277262000" expanded="true" signature="17949:18029" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="18056:18149" placeholder="/** Event handler called within TodoTextInput. ...*/" />
+            <marker date="1424277262000" expanded="true" signature="18171:18187" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="18276:18289" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="18408:18479" placeholder="/** Copyright (c) 2014, Facebook, Inc. ...*/" />
+            <marker date="1424277262000" expanded="true" signature="19099:20331" placeholder="{&quot;displayName&quot;: &quot;WidgetWithPopup&quot;...}" />
+            <marker date="1424277262000" expanded="true" signature="19094:19141" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="19397:19408" placeholder="/** @return {object} ...*/" />
+            <marker date="1424277262000" expanded="true" signature="19432:20059" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="19505:19686" placeholder="{&quot;class&quot;: &quot;widgetWithPopup&quot;...}" />
+            <marker date="1424277262000" expanded="true" signature="19760:19974" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="19768:19941" placeholder="{&quot;border&quot;: '1px solid red'...}" />
+            <marker date="1424277262000" expanded="true" signature="20083:20094" placeholder="/** Event handler for 'change' events coming from the TodoStore ...*/" />
+            <marker date="1424277262000" expanded="true" signature="20785:21535" placeholder="[...]" />
+            <marker date="1424277262000" expanded="true" signature="20818:21442" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="20371:21166" placeholder="/*...*/" />
+            <marker date="1424277262000" expanded="true" signature="21215:21389" placeholder="{&quot;TODO_CREATE&quot;: null...}" />
+            <marker date="1424277262000" expanded="true" signature="21613:22180" placeholder="[...]" />
+            <marker date="1424277262000" expanded="true" signature="21646:22097" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="21445:21972" placeholder="/*...*/" />
+            <marker date="1424277262000" expanded="true" signature="22283:24847" placeholder="[...]" />
+            <marker date="1424277262000" expanded="true" signature="22316:24213" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="22662:23017" placeholder="{&quot;widgetCreated&quot;: false...}" />
+            <marker date="1424277262000" expanded="true" signature="22699:22717" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="22725:22770" placeholder="/** @param {function} callback ...*/" />
+            <marker date="1424277262000" expanded="true" signature="22849:22860" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="22868:22913" placeholder="/** @param {function} callback ...*/" />
+            <marker date="1424277262000" expanded="true" signature="23142:24176" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="23180:23513" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="278279:280435" placeholder="/** Dispatcher is used to broadcast payloads to registered callbacks. This is ...*/" />
+            <marker date="1424277262000" expanded="true" signature="280516:280783" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="926606:934897" placeholder="[...]" />
+            <marker date="1424277262000" expanded="true" signature="926639:934893" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="932201:933154" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="932793:932858" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="932949:932980" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="932986:933026" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="933230:934101" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="933331:933514" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="933563:933815" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="933620:933705" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="933897:933903" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="933909:934003" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="934168:934361" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="934430:934614" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="934655:934659" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="934719:934723" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="934781:934785" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="934862:934866" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="935022:936285" placeholder="[...]" />
+            <marker date="1424277262000" expanded="true" signature="935055:936281" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="935191:935498" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="935188:935219" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="935294:935468" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="935400:935431" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="935553:935635" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="935576:935604" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="936023:936027" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="936136:936181" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="936332:937129" placeholder="[...]" />
+            <marker date="1424277262000" expanded="true" signature="936365:936848" placeholder="{...}" />
+            <marker date="1424277262000" expanded="true" signature="936281:936592" placeholder="/** Copyright (c) 2014, Facebook, Inc. ...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/components/MainSection.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="226" max-vertical-offset="1020">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/components/Popup.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="451" max-vertical-offset="1080">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/stores/MyStore.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1155">
+          <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/components/WidgetWithPopup.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1125">
+          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="360">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/components/Header.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1020">
+          <caret line="13" column="56" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/components/TodoApp.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37815127" vertical-offset="0" max-vertical-offset="1080">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
